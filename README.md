@@ -161,13 +161,3 @@ git clone https://github.com/dauparas/ProteinMPNN
 
 Las bases de datos (PDB, UniProt) se actualizan constantemente, por lo que los
 conteos pueden cambiar con el tiempo.
-
-## Limitaciones
-
-- La búsqueda *full text* en el PDB también recupera proteínas con plegamiento
-  similar que no son pectato liasas canónicas (por ejemplo, proteínas de fagos).
-- El número de estructuras depositadas no refleja la diversidad real de la familia.
-- La perplejidad baja no garantiza que una secuencia sea funcional; las secuencias
-  del LLM requieren validación estructural y experimental.
-- 7BBV no incluye el sustrato ni la conformación activa; para estudiarlos haría
-  falta simulación (por ejemplo, BioEmu).
