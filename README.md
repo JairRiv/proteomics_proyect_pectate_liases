@@ -1,4 +1,4 @@
-# Analisis proteomico de las proteínas de las pectato liasas
+# Analisis proteomico de las proteínas de las pectato liasas y de patulina
 
 **Por: Diana Barrientos, Leonardo González y Jair Rivera**
 
