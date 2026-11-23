@@ -161,3 +161,9 @@ git clone https://github.com/dauparas/ProteinMPNN
 
 Las bases de datos (PDB, UniProt) se actualizan constantemente, por lo que los
 conteos pueden cambiar con el tiempo.
+
+---
+
+## Referencia
+
+dauparas - Overview. (n.d.). GitHub. https://github.com/dauparas
