@@ -1,0 +1,24 @@
+>query
+ATEEAIARVAKILGTPALRAGVEAGAAELGISPEEAIRAIGEMAADPETRPLMEELTGAGLARAEGLDAATRAAVAVELGVALVRLAKELAAA
+>UniRef90_UPI001E66F88C/106-139 [subseq from] uncharacterized protein LOC123729188 n=1 Tax=Salmo salar TaxID=8030 RepID=UPI001E66F88C
+---------------------------------------------HPAVDLLMEENEGAAVPRASGTSASTGQHPAVDL--------------
+>UniRef90_A0A9P4S0U8/37-67 [subseq from] Mitochondrial division protein 1 (Fragment) n=2 Tax=Patellaria atrata CBS 101060 TaxID=1346257 RepID=A0A9P4S0U8_9PEZI
+------------------------------------------SASDDRTVRLWDSKTGAGLSRLEGHMRSVNA--------------------
+>SRR5215470_3588595/18-51 [subseq from] SRR5215470_3588595
+----------------------------IGTqSPATALHVIGHLTLDPQGSPVLYTGTGPGE--------------------------------
+>SRR5680860_78940/28-48 [subseq from] SRR5680860_78940
+------PEVCAILGTPAVRAGAGAGDT------------------------------------------------------------------
+>SRR5680860_78940/53-72 [subseq from] SRR5680860_78940
+-------EVCAILGTPAVRAGAGAGDT------------------------------------------------------------------
+>SRR5680860_78940/77-96 [subseq from] SRR5680860_78940
+-------GVCAILGTPAVRAGAGAGDT------------------------------------------------------------------
+>SRR5680860_78940/101-120 [subseq from] SRR5680860_78940
+-------EVCAILGTPAARAGAGAGDT------------------------------------------------------------------
+>SRR5680860_78940/149-169 [subseq from] SRR5680860_78940
+-------EVCAILGTPAVRAGAGVGGTD-----------------------------------------------------------------
+>SRR5262250_856831/29-64 [subseq from] SRR5262250_856831
+------ATVALLPGGAAIR----AGQDRAGLSDRPAVRRVGKMHAE-----------------------------------------------
+>SRR5262250_856831/398-457 [subseq from] SRR5262250_856831
+------ATVALLPGGAAIR----AGQDRAGLSDRPAVRRVGKMHAEKVAAHATVALLPGGAAIRAGQDRA-----------------------
+>ERR1039458_5045635/15-43 [subseq from] ERR1039458_5045635
+-----------------PRSGVDAGHVQLGRAPDDALPARGATPGP-----------------------------------------------

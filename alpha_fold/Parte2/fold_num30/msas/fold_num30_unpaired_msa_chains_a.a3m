@@ -1,0 +1,126 @@
+>query
+EAKTIKAKFWNLFSTYSAKKGCVMGAKKHGIDLKTAVSGFGELDNNPATRHDSIALGQVLKEQETMLWRYEQYRMRCQGGCCLAELAQPVTSL
+>UniRef90_H8MJM5/92-113 [subseq from] Peptidase n=1 Tax=Corallococcus coralloides (strain ATCC 25202 / DSM 2259 / NBRC 100086 / M2) TaxID=1144275 RepID=H8MJM5_CORCM
+--------------------------------------SWQELDNNPATRA-IVADGNNLY--------------------------------
+>UniRef90_H8MJM5/127-149 [subseq from] Peptidase n=1 Tax=Corallococcus coralloides (strain ATCC 25202 / DSM 2259 / NBRC 100086 / M2) TaxID=1144275 RepID=H8MJM5_CORCM
+----------------------------------TPLTGWQELDNNPATRA-IIADGN-----------------------------------
+>UniRef90_H8MJM5/166-187 [subseq from] Peptidase n=1 Tax=Corallococcus coralloides (strain ATCC 25202 / DSM 2259 / NBRC 100086 / M2) TaxID=1144275 RepID=H8MJM5_CORCM
+----------------------------------TPFTGWQELDNNPATRA-IVADG------------------------------------
+>UniRef90_H8MJM5/205-231 [subseq from] Peptidase n=1 Tax=Corallococcus coralloides (strain ATCC 25202 / DSM 2259 / NBRC 100086 / M2) TaxID=1144275 RepID=H8MJM5_CORCM
+----------------------------------TPFTGWQELDNNPATRA-IIADGNNLYQ-------------------------------
+>UniRef90_H8MJM5/244-269 [subseq from] Peptidase n=1 Tax=Corallococcus coralloides (strain ATCC 25202 / DSM 2259 / NBRC 100086 / M2) TaxID=1144275 RepID=H8MJM5_CORCM
+----------------------------------TPLTGWQELDNNPATRS-IVADGNNLY--------------------------------
+>UniRef90_H8MJM5/283-307 [subseq from] Peptidase n=1 Tax=Corallococcus coralloides (strain ATCC 25202 / DSM 2259 / NBRC 100086 / M2) TaxID=1144275 RepID=H8MJM5_CORCM
+----------------------------------TPFSGWQELDNNPATRS-IVAEGSNL---------------------------------
+>UniRef90_H8MJM5/322-338 [subseq from] Peptidase n=1 Tax=Corallococcus coralloides (strain ATCC 25202 / DSM 2259 / NBRC 100086 / M2) TaxID=1144275 RepID=H8MJM5_CORCM
+----------------------------------TPFTGWQELDNNPATRA------------------------------------------
+>UniRef90_A0A143PQ57/293-330 [subseq from] Peptidase M12A domain-containing protein n=1 Tax=Luteitalea pratensis TaxID=1855912 RepID=A0A143PQ57_LUTPR
+----------------------------------TPLTGWQELDNNPATKKIAVANGNLYQlHNNGRIWKYV----------------------
+>UniRef90_A0A143PQ57/374-407 [subseq from] Peptidase M12A domain-containing protein n=1 Tax=Luteitalea pratensis TaxID=1855912 RepID=A0A143PQ57_LUTPR
+-------------------------------------TGWQELDNNPATRRIAAAGGQLYQLhSNGRIWKY-----------------------
+>UniRef90_UPI001376A084/315-351 [subseq from] matrixin family metalloprotease n=1 Tax=Paenibacillus glycinis TaxID=2697035 RepID=UPI001376A084
+-----------------------------------PITGWQELDNNPATRAITVSAGHLYQlHNNGRIWRYT----------------------
+>UniRef90_UPI001376A084/356-389 [subseq from] matrixin family metalloprotease n=1 Tax=Paenibacillus glycinis TaxID=2697035 RepID=UPI001376A084
+-------------------------------------TGWQEIDNNPATASITAAGNELYQlHVNGRIWRY-----------------------
+>UniRef90_UPI001376A084/473-507 [subseq from] matrixin family metalloprotease n=1 Tax=Paenibacillus glycinis TaxID=2697035 RepID=UPI001376A084
+-------------------------------------TGWQEIDNNPATKAIAAAGGRLYQiHQNGRIWRYT----------------------
+>UniRef90_UPI003672D965/336-372 [subseq from] hypothetical protein n=1 Tax=Bacillus cereus TaxID=1396 RepID=UPI003672D965
+----------------------------------TPMTGWAKLDNNPAT-FDIVADGNDLYQQhnDGSIWQY-----------------------
+>UniRef90_UPI003672D965/375-411 [subseq from] hypothetical protein n=1 Tax=Bacillus cereus TaxID=1396 RepID=UPI003672D965
+----------------------------------TPMTGWTKLDNNPATKKIAVSGGNLYQiHTDGSIWQY-----------------------
+>UniRef90_UPI003672D965/414-451 [subseq from] hypothetical protein n=1 Tax=Bacillus cereus TaxID=1396 RepID=UPI003672D965
+----------------------------------TPMTGWAKLDNNPATKKIAVSGGNLYQiHSDGSIWQYT----------------------
+>UniRef90_UPI003672D965/453-489 [subseq from] hypothetical protein n=1 Tax=Bacillus cereus TaxID=1396 RepID=UPI003672D965
+----------------------------------TPMTGWAKLDNNPAT-FDIVADGNDLYQLHTngRIWKY-----------------------
+>UniRef90_UPI0027403C81/41-62 [subseq from] hypothetical protein n=1 Tax=Actinoplanes sp. RD1 TaxID=3064538 RepID=UPI0027403C81
+-----------------------------------PISGWEELDNNPATI-DIVADGG-----------------------------------
+>UniRef90_UPI0027403C81/119-143 [subseq from] hypothetical protein n=1 Tax=Actinoplanes sp. RD1 TaxID=3064538 RepID=UPI0027403C81
+-----------------------------------AVAGWQELDRNPATV-DIAASGGLLY--------------------------------
+>UniRef90_UPI0027403C81/157-183 [subseq from] hypothetical protein n=1 Tax=Actinoplanes sp. RD1 TaxID=3064538 RepID=UPI0027403C81
+----------------------------------TPLTGWEELDRNPATV-DIVADGGLLYQ-------------------------------
+>UniRef90_UPI0027403C81/197-219 [subseq from] hypothetical protein n=1 Tax=Actinoplanes sp. RD1 TaxID=3064538 RepID=UPI0027403C81
+-----------------------------------PISGWEELDRNPATVQIAAGGGN-----------------------------------
+>UniRef90_UPI002785FFD7/304-340 [subseq from] matrixin family metalloprotease n=1 Tax=Peribacillus sp. V2I11 TaxID=3042277 RepID=UPI002785FFD7
+----------------------------------TPLTGWQELDNNTATKKI-VAVGGNLYQfhNNGRIWKY-----------------------
+>UniRef90_UPI002785FFD7/460-496 [subseq from] matrixin family metalloprotease n=1 Tax=Peribacillus sp. V2I11 TaxID=3042277 RepID=UPI002785FFD7
+----------------------------------TPLTGWQELDNNPATKNIVAAGGNLYQIhSNGRIWKY-----------------------
+>UniRef90_UPI002785FFD7/499-535 [subseq from] matrixin family metalloprotease n=1 Tax=Peribacillus sp. V2I11 TaxID=3042277 RepID=UPI002785FFD7
+----------------------------------TPLTGWQELDNNPATKNIVAAGGNLYQIhNNGRIWKY-----------------------
+>UniRef90_A0A9W9UL03/79-114 [subseq from] Uncharacterized protein n=1 Tax=Penicillium brevicompactum TaxID=5074 RepID=A0A9W9UL03_PENBR
+------------------------------------LTGWKELDNNPATRKIAASEGNLYQLHKTgLIWKYT----------------------
+>UniRef90_A0A9W9UL03/157-192 [subseq from] Uncharacterized protein n=1 Tax=Penicillium brevicompactum TaxID=5074 RepID=A0A9W9UL03_PENBR
+------------------------------------LTGWQELDNNPATRKIAASGGNLYQLHKTgLIWKYT----------------------
+>UniRef90_A0A9W9UL03/235-269 [subseq from] Uncharacterized protein n=1 Tax=Penicillium brevicompactum TaxID=5074 RepID=A0A9W9UL03_PENBR
+------------------------------------LTGWQELDNNPATKEIAAGAGRLYQLHtNGAIWEY-----------------------
+>UniRef90_A0A8T4EU10/373-396 [subseq from] Peptidase metallopeptidase domain-containing protein n=1 Tax=Streptosporangiaceae bacterium NEAU-GS5 TaxID=2820291 RepID=A0A8T4EU10_9ACTN
+---------------------------------GTPMTGWQELDNNPATIQ-IVADGN-----------------------------------
+>UniRef90_A0A8T4EU10/412-439 [subseq from] Peptidase metallopeptidase domain-containing protein n=1 Tax=Streptosporangiaceae bacterium NEAU-GS5 TaxID=2820291 RepID=A0A8T4EU10_9ACTN
+---------------------------------GTPMTGWQELDNNPATV-DIVASGGHLYQ-------------------------------
+>UniRef90_UPI002FDA49DF/308-345 [subseq from] M12 family metallopeptidase n=1 Tax=Sphingomonas sp. TaxID=28214 RepID=UPI002FDA49DF
+----------------------------------TPITGWQELDNNPATVKIAAAGGHLYQLhNSGRIWRYT----------------------
+>UniRef90_UPI002FDA49DF/350-383 [subseq from] M12 family metallopeptidase n=1 Tax=Sphingomonas sp. TaxID=28214 RepID=UPI002FDA49DF
+-------------------------------------SGWQEIDNNPRTS-DIVAAGNDLYQmhKDGRIWKF-----------------------
+>UniRef90_UPI002FDA49DF/386-421 [subseq from] M12 family metallopeptidase n=1 Tax=Sphingomonas sp. TaxID=28214 RepID=UPI002FDA49DF
+----------------------------------TPMTGWKELDNNPRTM--KIAAGDALYQIHStgNIWKY-----------------------
+>UniRef90_A0A9W3ABS7/52-92 [subseq from] Adhesive plaque matrix protein-like n=1 Tax=Biomphalaria glabrata TaxID=6526 RepID=A0A9W3ABS7_BIOGL
+------------------------------VALQTNITDYGATDQHTRPTYQTMALQTNIPDQHTRLWRYR----------------------
+>UniRef90_A0A9W3ABS7/196-233 [subseq from] Adhesive plaque matrix protein-like n=1 Tax=Biomphalaria glabrata TaxID=6526 RepID=A0A9W3ABS7_BIOGL
+---------------------------------QTNIPDYGATDQHTRPTYQTMALQTNIPDQHTRLWRYR----------------------
+>UniRef90_A0A9W3ABS7/238-275 [subseq from] Adhesive plaque matrix protein-like n=1 Tax=Biomphalaria glabrata TaxID=6526 RepID=A0A9W3ABS7_BIOGL
+----------------------------------TNIPDYGATDQHTTPTYQTMALQTNIPDQHTRLWRYRP---------------------
+>UniRef90_A0A3M7NQX8/310-346 [subseq from] Peptidase M12A domain-containing protein (Fragment) n=1 Tax=Chaetothyriales sp. CBS 134916 TaxID=2249418 RepID=A0A3M7NQX8_9EURO
+----------------------------------TPLTGWQQLDNNPATKKI-VAAGSNLYQlHNTgKIWKY-----------------------
+>UniRef90_A0A3M7NQX8/387-425 [subseq from] Peptidase M12A domain-containing protein (Fragment) n=1 Tax=Chaetothyriales sp. CBS 134916 TaxID=2249418 RepID=A0A3M7NQX8_9EURO
+---------------------------------GTPITGWKLLDDNPATQKITASGGNLYQLHKTgKIWKYT----------------------
+>UniRef90_A0A3M7NQX8/466-504 [subseq from] Peptidase M12A domain-containing protein (Fragment) n=1 Tax=Chaetothyriales sp. CBS 134916 TaxID=2249418 RepID=A0A3M7NQX8_9EURO
+----------------------------------TPMTGWQQLDDNPATRSIAAGAGALYQIHKTgEIWKYAA---------------------
+>ERR1700752_3205317/7-43 [subseq from] ERR1700752_3205317
+----------------------------------TPLTGWELLDNNPATVDIVAADGQLFQRHnNGLIWRF-----------------------
+>ERR1700752_3205317/1216-1253 [subseq from] ERR1700752_3205317
+----------------------------------TPLTGWELLDNNPATVDIVAADGQLFQRHnNGLIWRFT----------------------
+>SRR3990172_3016823/33-59 [subseq from] SRR3990172_3016823
+----------------------------------TPLTGWQELDNNPATTKIGAAGGNLYQ--------------------------------
+>SRR6516162_10116745/5-29 [subseq from] SRR6516162_10116745
+------------------------------------------------------------------AWAADAHRRRAQGGCCTAVRAAAVR--
+>SRR6516162_10116745/31-56 [subseq from] SRR6516162_10116745
+-----------------------------------------------------------------TAWAADAHRRRAQGGCCTAVRAAAVR--
+>SRR5918994_652958/16-48 [subseq from] SRR5918994_652958
+---------------------------------------WTELDGNPATV-DIVAAGNQLYQRhaDGRIWRYT----------------------
+>SRR5918994_652958/50-87 [subseq from] SRR5918994_652958
+----------------------------------TPMTGWELLDDNPATV-DIVAAGNQLYQRhnSGRIWRYT----------------------
+>SRR5918994_652958/91-126 [subseq from] SRR5918994_652958
+------------------------------------MTGWEELDGNPATV-DIVAAGNQLYQRhaDGRIWRYT----------------------
+>SRR5918994_652958/130-165 [subseq from] SRR5918994_652958
+------------------------------------MTGWEELDGNPATV-DIVAAGNQLCQRhaDGRIWRYT----------------------
+>SRR5918994_652958/167-208 [subseq from] SRR5918994_652958
+----------------------------------TPMTGWEELDGNPATVDIVAADNQLYQRhNNGRIWRFDPYRF------------------
+>A0A143PQ57_9BACT/334-368 [subseq from] A0A143PQ57_9BACT
+------------------------------------MTGWQEIDNNPATVDIVATSGDLYQlHNNGRIWKY-----------------------
+>A0A143PQ57_9BACT/412-446 [subseq from] A0A143PQ57_9BACT
+------------------------------------MTGWQELDNNPATTSILASDGDLYQMHgNGRIWKY-----------------------
+>A0A143PQ57_9BACT/452-485 [subseq from] A0A143PQ57_9BACT
+-------------------------------------TGWQELDNNPRTRQIAAGGGRLYQIHtGGAIWKY-----------------------
+>SRR5829696_9963783/88-112 [subseq from] SRR5829696_9963783
+----------------------------------------------------------------EMTGRHDGIAQRLQGGACDADLSTP----
+>SRR5829696_9963783/120-145 [subseq from] SRR5829696_9963783
+----------------------------------------------------------------EMTGRHDGIAQRLQGGACDADLSAPG---
+>SRR5829696_9963783/151-176 [subseq from] SRR5829696_9963783
+---------------------------------------------------------------SEMTGRHDGVAQRLQGGACDADLSAP----
+>SRR5829696_9963783/216-240 [subseq from] SRR5829696_9963783
+----------------------------------------------------------------EMTGRHDRVAQRLQGGACDADVSAP----
+>SRR5450432_4081707/160-194 [subseq from] SRR5450432_4081707
+------------------------------------LTGWQQLDNNPATKQIVASGGNLYQLHNTgKIWKY-----------------------
+>SRR5450432_4081707/238-272 [subseq from] SRR5450432_4081707
+------------------------------------MTGWQELDNNPATKQIVASGGNLYQLHNTgKIWKY-----------------------
+>SRR5215211_4135537/176-192 [subseq from] SRR5215211_4135537
+----------------------------------AAVSGWRELDNNPSTTA------------------------------------------
+>SRR5215211_4135537/217-243 [subseq from] SRR5215211_4135537
+------------------------------------LTGWLELDNNPATRA-IVASGELTDAQG-----------------------------
+>SRR5215211_4135537/263-282 [subseq from] SRR5215211_4135537
+-------------------------------------TGWLELDNNPATR-DIVASGG-----------------------------------
+>SRR6185312_13640886/380-407 [subseq from] SRR6185312_13640886
+----------------------------------TPHTGWQELDNNPATV-DIVASGGHLYQR------------------------------
+>SRR6185312_13640886/419-445 [subseq from] SRR6185312_13640886
+----------------------------------TPHTGWKELDNNPATVQI-AADGNALYQ-------------------------------
+>SRR6185312_13640886/459-486 [subseq from] SRR6185312_13640886
+-----------------------------------PHTGWQELDNNPATV-DIVASGGALYQRH-----------------------------

@@ -1,0 +1,18 @@
+[{
+ "name": "Num8",
+ "modelSeeds": [
+  "1942322773"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "AEAAAVAAVAAALGTPALAAGVAAGAAAAGVAPATAVAAIGRAAADPATRPGVVALTGAGLAAAVGLDAAARAAAAVALGVALVAWARALAAA",
+    "count": 1,
+    "useStructureTemplate": true
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 3
+}
+]

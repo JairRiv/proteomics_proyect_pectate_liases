@@ -1,0 +1,18 @@
+[{
+ "name": "Num4",
+ "modelSeeds": [
+  "6059394"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "AREAAIAAFRALFGQPGMRKGIEEGAKKLGISPEEVIERFGELVADPETRPESVALLGVYKALGVGKSPEEREKIRVELGVALAEWAKEREEK",
+    "count": 1,
+    "useStructureTemplate": true
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 3
+}
+]
