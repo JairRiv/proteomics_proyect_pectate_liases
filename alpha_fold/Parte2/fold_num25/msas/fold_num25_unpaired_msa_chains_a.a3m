@@ -1,0 +1,24 @@
+>query
+AVAEAVAAFEDLFGGPDLRAGIRAGAHKQGIEETTAVERFGRLRSEPETQPLSELLTGVMKALCEGLNEALRAECMKCMGVLWVAKAISLENN
+>UniRef90_A0A6A4X6Z5/41-43 [subseq from] Uncharacterized protein n=1 Tax=Amphibalanus amphitrite TaxID=1232801 RepID=A0A6A4X6Z5_AMPAM
+-----------------------------------------------------------MSA-------------------------------
+>UniRef90_A0A6A4X6Z5/81-107 [subseq from] Uncharacterized protein n=1 Tax=Amphibalanus amphitrite TaxID=1232801 RepID=A0A6A4X6Z5_AMPAM
+---------------------------------------------------MSALYDGVMSALCDGVMSAL------CDGVMWA---------
+>UniRef90_A0A6A4X6Z5/122-142 [subseq from] Uncharacterized protein n=1 Tax=Amphibalanus amphitrite TaxID=1232801 RepID=A0A6A4X6Z5_AMPAM
+----------------------------------------------------SALYDGVMSALCDGVMSALCD--------------------
+>UniRef90_A0A6A4X6Z5/161-180 [subseq from] Uncharacterized protein n=1 Tax=Amphibalanus amphitrite TaxID=1232801 RepID=A0A6A4X6Z5_AMPAM
+---------------------------------------------------MSALCDGVMLALCDGVMSAL----------------------
+>SRR5262250_856831/37-65 [subseq from] SRR5262250_856831
+------------------GAAIRAGQDRAGLSDRPAVRRVGKMHAEK----------------------------------------------
+>SRR5882724_8599408/20-60 [subseq from] SRR5882724_8599408
+---------------------------TTSLTRTIAPAPRGGASSEPGKPVLAELLDGALRCACAALG-------------------------
+>SRR5882724_8599408/446-485 [subseq from] SRR5882724_8599408
+---------------------------------TIAPAPRGGASSEPGKPVLAELLDGALRCACAALGATTRR--------------------
+>SRR3989338_2377621/50-99 [subseq from] SRR3989338_2377621
+-----TAAARRLRGGPDLQAQHPSSTRQQQHLATSRRPRFASAASDSNTQQQ-QLV-------------------------------------
+>SRR3954452_6050863/15-32 [subseq from] SRR3954452_6050863
+-----------------------------------RPRRSGRLDSEPDTEPDT----------------------------------------
+>SRR3954452_6050863/50-93 [subseq from] SRR3954452_6050863
+-------------GGHRGRQGAGLGVHVAGTESGTLVSerprRSGRLDSEPDTEPDT----------------------------------------
+>SRR3954452_6050863/172-215 [subseq from] SRR3954452_6050863
+-------------GGHRGRQGAGLGVHVAGTESGTLVSerprRLGRLDSEPDMEPDT----------------------------------------

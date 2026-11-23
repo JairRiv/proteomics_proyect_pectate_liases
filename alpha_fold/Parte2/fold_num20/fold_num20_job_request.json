@@ -1,0 +1,18 @@
+[{
+ "name": "Num20",
+ "modelSeeds": [
+  "737776193"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "ALEAAVAAVRALLGTPALAAGIAAGAAELGVSPEEVVRAIGELAADPATRPEFEALTGAGLAAMEGLPPEARAAAAVELGRALARWAAARRAA",
+    "count": 1,
+    "useStructureTemplate": true
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 3
+}
+]

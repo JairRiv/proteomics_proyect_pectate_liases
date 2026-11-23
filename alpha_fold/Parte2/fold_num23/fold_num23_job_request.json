@@ -1,0 +1,18 @@
+[{
+ "name": "Num23",
+ "modelSeeds": [
+  "1638416306"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "SVEEAIAAVRELLGTPGARAGVEAGARKLGISPEEAIRRIGELAADPATRPGFEKLLGEGLAKAEGLSPEERAEVLRELGIRLVEWAAEIEAA",
+    "count": 1,
+    "useStructureTemplate": true
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 3
+}
+]

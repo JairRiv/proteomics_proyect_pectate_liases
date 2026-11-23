@@ -1,0 +1,48 @@
+>query
+EAKTIKAKFWNLFSTYSAKKGCVMGAKKHGIDLKTAVSGFGELDNNPATRHDSIALGQVLKEQETMLWRYEQYRMRCQGGCCLAELAQPVTSL
+>tr|H8MJM5|H8MJM5_CORCM/92-113 [subseq from] Peptidase OS=Corallococcus coralloides (strain ATCC 25202 / DSM 2259 / NBRC 100086 / M2) OX=1144275 GN=COCOR_05959 PE=4 SV=1
+--------------------------------------SWQELDNNPATRA-IVADGNNLY--------------------------------
+>tr|H8MJM5|H8MJM5_CORCM/127-149 [subseq from] Peptidase OS=Corallococcus coralloides (strain ATCC 25202 / DSM 2259 / NBRC 100086 / M2) OX=1144275 GN=COCOR_05959 PE=4 SV=1
+----------------------------------TPLTGWQELDNNPATRA-IIADGN-----------------------------------
+>tr|H8MJM5|H8MJM5_CORCM/166-187 [subseq from] Peptidase OS=Corallococcus coralloides (strain ATCC 25202 / DSM 2259 / NBRC 100086 / M2) OX=1144275 GN=COCOR_05959 PE=4 SV=1
+----------------------------------TPFTGWQELDNNPATRA-IVADG------------------------------------
+>tr|H8MJM5|H8MJM5_CORCM/205-231 [subseq from] Peptidase OS=Corallococcus coralloides (strain ATCC 25202 / DSM 2259 / NBRC 100086 / M2) OX=1144275 GN=COCOR_05959 PE=4 SV=1
+----------------------------------TPFTGWQELDNNPATRA-IIADGNNLYQ-------------------------------
+>tr|H8MJM5|H8MJM5_CORCM/244-269 [subseq from] Peptidase OS=Corallococcus coralloides (strain ATCC 25202 / DSM 2259 / NBRC 100086 / M2) OX=1144275 GN=COCOR_05959 PE=4 SV=1
+----------------------------------TPLTGWQELDNNPATRS-IVADGNNLY--------------------------------
+>tr|H8MJM5|H8MJM5_CORCM/283-307 [subseq from] Peptidase OS=Corallococcus coralloides (strain ATCC 25202 / DSM 2259 / NBRC 100086 / M2) OX=1144275 GN=COCOR_05959 PE=4 SV=1
+----------------------------------TPFSGWQELDNNPATRS-IVAEGSNL---------------------------------
+>tr|H8MJM5|H8MJM5_CORCM/322-338 [subseq from] Peptidase OS=Corallococcus coralloides (strain ATCC 25202 / DSM 2259 / NBRC 100086 / M2) OX=1144275 GN=COCOR_05959 PE=4 SV=1
+----------------------------------TPFTGWQELDNNPATRA------------------------------------------
+>tr|A0A143PQ57|A0A143PQ57_LUTPR/293-330 [subseq from] Peptidase M12A domain-containing protein OS=Luteitalea pratensis OX=1855912 GN=LuPra_04090 PE=4 SV=1
+----------------------------------TPLTGWQELDNNPATKKIAVANGNLYQlHNNGRIWKYV----------------------
+>tr|A0A143PQ57|A0A143PQ57_LUTPR/334-368 [subseq from] Peptidase M12A domain-containing protein OS=Luteitalea pratensis OX=1855912 GN=LuPra_04090 PE=4 SV=1
+------------------------------------MTGWQEIDNNPATVDIVATSGDLYQlHNNGRIWKY-----------------------
+>tr|A0A143PQ57|A0A143PQ57_LUTPR/374-407 [subseq from] Peptidase M12A domain-containing protein OS=Luteitalea pratensis OX=1855912 GN=LuPra_04090 PE=4 SV=1
+-------------------------------------TGWQELDNNPATRRIAAAGGQLYQLhSNGRIWKY-----------------------
+>tr|A0A143PQ57|A0A143PQ57_LUTPR/412-446 [subseq from] Peptidase M12A domain-containing protein OS=Luteitalea pratensis OX=1855912 GN=LuPra_04090 PE=4 SV=1
+------------------------------------MTGWQELDNNPATTSILASDGDLYQMHgNGRIWKY-----------------------
+>tr|A0A143PQ57|A0A143PQ57_LUTPR/452-485 [subseq from] Peptidase M12A domain-containing protein OS=Luteitalea pratensis OX=1855912 GN=LuPra_04090 PE=4 SV=1
+-------------------------------------TGWQELDNNPRTRQIAAGGGRLYQIHtGGAIWKY-----------------------
+>tr|A0A9W9UL03|A0A9W9UL03_PENBR/79-114 [subseq from] Uncharacterized protein OS=Penicillium brevicompactum OX=5074 GN=N7452_003717 PE=4 SV=1
+------------------------------------LTGWKELDNNPATRKIAASEGNLYQLHKTgLIWKYT----------------------
+>tr|A0A9W9UL03|A0A9W9UL03_PENBR/157-192 [subseq from] Uncharacterized protein OS=Penicillium brevicompactum OX=5074 GN=N7452_003717 PE=4 SV=1
+------------------------------------LTGWQELDNNPATRKIAASGGNLYQLHKTgLIWKYT----------------------
+>tr|A0A9W9UL03|A0A9W9UL03_PENBR/235-269 [subseq from] Uncharacterized protein OS=Penicillium brevicompactum OX=5074 GN=N7452_003717 PE=4 SV=1
+------------------------------------LTGWQELDNNPATKEIAAGAGRLYQLHtNGAIWEY-----------------------
+>tr|A0A8T4EU10|A0A8T4EU10_9ACTN/373-396 [subseq from] Peptidase metallopeptidase domain-containing protein OS=Streptosporangiaceae bacterium NEAU-GS5 OX=2820291 GN=J5X84_07935 PE=4 SV=1
+---------------------------------GTPMTGWQELDNNPATIQ-IVADGN-----------------------------------
+>tr|A0A8T4EU10|A0A8T4EU10_9ACTN/412-439 [subseq from] Peptidase metallopeptidase domain-containing protein OS=Streptosporangiaceae bacterium NEAU-GS5 OX=2820291 GN=J5X84_07935 PE=4 SV=1
+---------------------------------GTPMTGWQELDNNPATV-DIVASGGHLYQ-------------------------------
+>tr|A0A9W3ABS7|A0A9W3ABS7_BIOGL/52-92 [subseq from] Adhesive plaque matrix protein-like OS=Biomphalaria glabrata OX=6526 GN=LOC129926222 PE=4 SV=1
+------------------------------VALQTNITDYGATDQHTRPTYQTMALQTNIPDQHTRLWRYR----------------------
+>tr|A0A9W3ABS7|A0A9W3ABS7_BIOGL/196-233 [subseq from] Adhesive plaque matrix protein-like OS=Biomphalaria glabrata OX=6526 GN=LOC129926222 PE=4 SV=1
+---------------------------------QTNIPDYGATDQHTRPTYQTMALQTNIPDQHTRLWRYR----------------------
+>tr|A0A9W3ABS7|A0A9W3ABS7_BIOGL/238-275 [subseq from] Adhesive plaque matrix protein-like OS=Biomphalaria glabrata OX=6526 GN=LOC129926222 PE=4 SV=1
+----------------------------------TNIPDYGATDQHTTPTYQTMALQTNIPDQHTRLWRYRP---------------------
+>tr|A0A9W8UFF8|A0A9W8UFF8_9HYPO/285-322 [subseq from] Peptidase M12A domain-containing protein OS=Fusarium irregulare OX=2494466 GN=NW766_001729 PE=4 SV=1
+----------------------------------TPMTGWQALDNNSATKKIAAANGKLYQlHKDGKIWKYT----------------------
+>tr|A0A9W8UFF8|A0A9W8UFF8_9HYPO/363-400 [subseq from] Peptidase M12A domain-containing protein OS=Fusarium irregulare OX=2494466 GN=NW766_001729 PE=4 SV=1
+----------------------------------TPLSGWQELDNNPATKKVIAAGGNLYQLHKTgLIWKYT----------------------
+>tr|A0A9W8UFF8|A0A9W8UFF8_9HYPO/441-480 [subseq from] Peptidase M12A domain-containing protein OS=Fusarium irregulare OX=2494466 GN=NW766_001729 PE=4 SV=1
+----------------------------------TPISGWQLLDDNSATKEVVVGVGGLYQIHKTgSIWRYEGP--------------------

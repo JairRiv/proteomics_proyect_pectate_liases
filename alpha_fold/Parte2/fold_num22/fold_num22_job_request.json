@@ -1,0 +1,18 @@
+[{
+ "name": "Num22",
+ "modelSeeds": [
+  "904819821"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "SLEETIAAVRKILGTPAFAAGIEAGAKELGVTPEEVIEAIGRLAADPETRPLVIETTGAGLAAAVGKDPATRAAIAVALGRELARLAKRLEEE",
+    "count": 1,
+    "useStructureTemplate": true
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 3
+}
+]

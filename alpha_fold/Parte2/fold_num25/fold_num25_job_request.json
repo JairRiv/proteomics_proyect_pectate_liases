@@ -1,0 +1,18 @@
+[{
+ "name": "Num25",
+ "modelSeeds": [
+  "1491939580"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "AVAEAVAAFEDLFGGPDLRAGIRAGAHKQGIEETTAVERFGRLRSEPETQPLSELLTGVMKALCEGLNEALRAECMKCMGVLWVAKAISLENN",
+    "count": 1,
+    "useStructureTemplate": true
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 3
+}
+]

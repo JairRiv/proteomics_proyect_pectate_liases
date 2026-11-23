@@ -1,0 +1,36 @@
+>query
+PVVEVTKEMWSKFKYPARHQGIEMGAARYGELPINIVTWNIHATSAPAQQAGTELLFTQLSGTGEGHPAEQQADINRREGVAFVNAMAVNNRR
+>UniRef90_UPI001891B3BA/1133-1179 [subseq from] nuclear mitotic apparatus protein 1 n=1 Tax=Pygocentrus nattereri TaxID=42514 RepID=UPI001891B3BA
+-------------------------------------------TEIKGQQDALNTLKTDLQNTQEGHKTEIDILINEKEHLSSVNQSLQN---
+>UniRef90_UPI001891B3BA/1343-1391 [subseq from] nuclear mitotic apparatus protein 1 n=1 Tax=Pygocentrus nattereri TaxID=42514 RepID=UPI001891B3BA
+----------------------------------------LQAE-IKGQQDALNTLKTDLQNTQEGHKTEIDILINEKEHLSSVNQSLQN---
+>UniRef90_A0AAR2JAM2/678-718 [subseq from] Uncharacterized protein n=1 Tax=Pygocentrus nattereri TaxID=42514 RepID=A0AAR2JAM2_PYGNA
+-----------------------------------------------GQQEELNMLKADLQNTKEGHKTEMDILINEKEHLCSVNQSL-----
+>UniRef90_A0AAR2JAM2/1095-1144 [subseq from] Uncharacterized protein n=1 Tax=Pygocentrus nattereri TaxID=42514 RepID=A0AAR2JAM2_PYGNA
+---------------------------------------NLQAE-IKGQQDALNTLKTDLQNTQEGHKTEIDILINEKEHLSSVNQSLQN---
+>UniRef90_E9ANF3/423-455 [subseq from] GRIP domain-containing protein n=1 Tax=Leishmania mexicana (strain MHOM/GT/2001/U1103) TaxID=929439 RepID=E9ANF3_LEIMU
+------------------RQELEAKAAQFEQLEANVVTWKEKVKASKAQDA------------------------------------------
+>SRR6185436_5650102/276-310 [subseq from] SRR6185436_5650102
+--VAVVQALWSSAQSPGVAQGSQLGAVETPQMPPLQV--------------------------------------------------------
+>SRR6516225_6834708/10-27 [subseq from] SRR6516225_6834708
+-------------------------------LPV-LVTWNVYVTASPAAP-------------------------------------------
+>SRR6516225_6834708/125-143 [subseq from] SRR6516225_6834708
+------------------------------TLPV-LVTWNVYVTASPAAP-------------------------------------------
+>SRR6516225_6834708/937-969 [subseq from] SRR6516225_6834708
+------------------------------TLPV-LVTWNVYVTTSPAAPtvAGAADLVTVKAG-------------------------------
+>SRR3990170_2176612/3-29 [subseq from] SRR3990170_2176612
+---------------------------------------------PPAQPAGTHVLATHVEPTGQSRPQPPQ---------------------
+>SRR3990170_2176612/40-79 [subseq from] SRR3990170_2176612
+--------------------------------PVGQHVWPgMHA-GPPAQPAGTHVLATHVEPTGQSRPQPPQ---------------------
+>ERR687887_186541/19-46 [subseq from] ERR687887_186541
+--------------------------------------------GAPAEASGSELVSDAASGGGYGAPAEAS---------------------
+>ERR687887_186541/418-445 [subseq from] ERR687887_186541
+--------------------------------------------GAPAVSSGSELVSDAASGGGYGAPAEAS---------------------
+>SRR6185312_9621898/53-93 [subseq from] SRR6185312_9621898
+---------------------------------------SISTGGNPSQQAAIHLNRRQSISTG-GNPSQQAAiHLNRRQS-------------
+>SRR6185312_9621898/210-275 [subseq from] SRR6185312_9621898
+-----------------RRQSISTGGNPSQQAPIHLNRrQSISTGGNPSQQAAIHLNRRQSISTG-GNPSQQAAiHLNRRQSIS-----------
+>SRR6185312_9621898/433-472 [subseq from] SRR6185312_9621898
+---------------------------------------SISTGGNPSQQAAIHLNRRQSISTG-GNPSQQAAiHLNRRQ--------------
+>SRR5580698_8612482/545-603 [subseq from] SRR5580698_8612482
+----------------------ERGASLFvTGTPVSLIRDRVNRTGTPAHERGASLFVTGTPVSLLGVPINEKAVASREKG-------------

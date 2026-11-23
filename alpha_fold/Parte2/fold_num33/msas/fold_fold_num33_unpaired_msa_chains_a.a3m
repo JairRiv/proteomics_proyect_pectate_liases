@@ -1,0 +1,56 @@
+>query
+SEQEAIQKVTTFLGHKGNIWGIDRAAEELGRDTETILARIGRLKVDPRTAPGVKALFGKLVEKAKGLDFEEKMRVHVEAGKRLGEARRREEFS
+>UniRef90_UPI00391B6B31/147-200 [subseq from] tetratricopeptide repeat protein n=1 Tax=Microcystis sp. TaxID=1127 RepID=UPI00391B6B31
+---------------------------------LPILQSVGNRAVEATTLNNIGLVYSDLGEKQKALDYlQQALPLWRAVGDRSGEA-------
+>UniRef90_UPI00391B6B31/233-281 [subseq from] tetratricopeptide repeat protein n=1 Tax=Microcystis sp. TaxID=1127 RepID=UPI00391B6B31
+---------------------------------------VGDRSGEAVTLSNIGAVYDDLGEKQKALDFYQqALPLRRAVGDRSGEAT------
+>UniRef90_UPI00391B6B31/277-321 [subseq from] tetratricopeptide repeat protein n=1 Tax=Microcystis sp. TaxID=1127 RepID=UPI00391B6B31
+-------------------------------------------SGEATTLSNIGAVYDALGEKQKALDYYQqALHLDRAVGDRSGEAT------
+>UniRef90_UPI00391B6B31/427-480 [subseq from] tetratricopeptide repeat protein n=1 Tax=Microcystis sp. TaxID=1127 RepID=UPI00391B6B31
+---------------------------------LPILQSVGNRAVEATTLNNIGGVYRNLGEKQKALDYlQQALPLWRAVGDRSGEA-------
+>UniRef90_UPI00188263F1/255-305 [subseq from] tetratricopeptide repeat protein n=1 Tax=Cuspidothrix issatschenkoi TaxID=230752 RepID=UPI00188263F1
+-------------------------------------RAVGDRSMEAATLNNIGAVYNALKEKQKALDFYNQaLPILRAVGDRGGEAA------
+>UniRef90_UPI00188263F1/333-385 [subseq from] tetratricopeptide repeat protein n=1 Tax=Cuspidothrix issatschenkoi TaxID=230752 RepID=UPI00188263F1
+-----------------------------------LIRAVGDRSMEATTLNNIGAVYNALKEKQKALDFFNQALPLIrAVGDRGGEAT------
+>UniRef90_K9W5S9/29-43 [subseq from] WD40 repeat-containing protein n=1 Tax=Crinalium epipsammum PCC 9333 TaxID=1173022 RepID=K9W5S9_9CYAN
+--------ITTFIGHESAVWSVT----------------------------------------------------------------------
+>UniRef90_A0A1B7W6E9/49-103 [subseq from] Uncharacterized protein (Fragment) n=1 Tax=Anabaena sp. MDT14b TaxID=1710886 RepID=A0A1B7W6E9_9NOST
+--------------------------------AILLLRAVGNRRGEAATLNNIGGVYDALGEKQKALDYyNQALPIRRAVGDRRGEA-------
+>UniRef90_A0A1B7W6E9/411-465 [subseq from] Uncharacterized protein (Fragment) n=1 Tax=Anabaena sp. MDT14b TaxID=1710886 RepID=A0A1B7W6E9_9NOST
+----------------------------------PILRAVGDRRVEAATLNNIGGVYDALGEKQKALDFYNQaLPILRAVGDRGGEAKT-----
+>SRR5450755_2012680/21-41 [subseq from] SRR5450755_2012680
+----SGQKISTLEGHAGGVWGVAFS--------------------------------------------------------------------
+>SRR5450755_2012680/273-291 [subseq from] SRR5450755_2012680
+----SGQKISTLEGHAGGVWGVA----------------------------------------------------------------------
+>SRR5450755_2012680/1701-1753 [subseq from] SRR5450755_2012680
+----SGQKISTLEGHTGGVWGVAFSP--DGRQLATASAD-GTVRLwDPDSGQKISTLEGR----------------------------------
+>SRR5271168_824423/275-275 [subseq from] SRR5271168_824423
+-----------------------------------------------------------S---------------------------------
+>SRR5271168_824423/443-443 [subseq from] SRR5271168_824423
+---------------------------------------------------------------------------S-----------------
+>SRR5271168_824423/604-604 [subseq from] SRR5271168_824423
+----------------------------------------------------V----------------------------------------
+>SRR5882757_1196644/44-87 [subseq from] SRR5882757_1196644
+----ALRDVTDGARHQGAVLGFERAEADLDRELGAVLALTVEFEAGPH---------------------------------------------
+>SRR5664279_2133310/11-48 [subseq from] SRR5664279_2133310
+------------------------GLERLGRSTEALAAYQRAMELDPRDADYPTAIGNLLRD-------------------------------
+>SRR5664279_2133310/113-150 [subseq from] SRR5664279_2133310
+------------------------GLERLGRPTEALAAYQRAMELDPRDADYPTAIGNLLRD-------------------------------
+>SRR5215208_4860298/43-74 [subseq from] SRR5215208_4860298
+------------LGEGGRVAGLDRAVADLGRPVRAPVAVVDLLV-------------------------------------------------
+>SRR6266851_5354469/39-115 [subseq from] SRR6266851_5354469
+------------LGRVYNALGQKVRALEYYEQALSILREVGDRSDEGRTLSNLGRVYNALGQKVRALEYyEQALSILREVGDRSDEGRT-----
+>SRR6266851_5354469/120-195 [subseq from] SRR6266851_5354469
+-------------GRVYNALGQKVRALEYYEQALSILREVGDRSDEGRTLSNLGRVYNALGQKVRALEYyEQALSILREVGDRSDEGRT-----
+>SRR6266851_5354469/247-315 [subseq from] SRR6266851_5354469
+--------------------GQKVRALEYYEQALSILREVGDRSDEGRTLSNLGRVYNALGQKVRALEYyEQALSILREVGDRSDEGRT-----
+>SRR6266851_5354469/283-356 [subseq from] SRR6266851_5354469
+----------------YNALGQKVRALEYYEQALSILREVGDRSDEGRTLSNLGRVYNALGQKVRALEYyEQALSILREVGDRSGEGRAL----
+>SRR5580704_6390030/66-101 [subseq from] SRR5580704_6390030
+----------------------------------------------------IGAIYFDLGEMQRALDYyNQAMPVHREAGNRIGEAN------
+>SRR5580704_6390030/161-221 [subseq from] SRR5580704_6390030
+---------------------------EFYNESLLLNRRVGNRSFEAQALMNIGMLYGTLGEKQKALQYyEQALALERAVGNRNGEAL------
+>MGYP000356030722/830-902 [subseq from] FL=0
+---------------VYSDWGEKQKALEFYNQSLPIRRSVGDRSGEATTLNNIGAVYADLGEKQKALEFyNQALPIHRAVGDRGGEAN------
+>MGYP000356030722/1091-1142 [subseq from] FL=0
+------------------------------------RRTVGDRSGEASTLGNIGTVYAALGEKQKALDFfNQALLIHRAVGNRSGEAT------

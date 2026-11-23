@@ -1,0 +1,18 @@
+[{
+ "name": "fold_num32",
+ "modelSeeds": [
+  "741730890"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "AVSTAQEAVAAMLGSPGLRAGIRRKANELGLEERSLLKMIGDQVNDPATSAAMTRLSGAGAALALGLDEQARGEAATLHGVGLGRWTVRKEWG",
+    "count": 1,
+    "useStructureTemplate": true
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 3
+}
+]
