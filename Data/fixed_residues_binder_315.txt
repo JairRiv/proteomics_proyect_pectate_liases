@@ -1,7 +1,0 @@
-Phe 9
-Leu 12
-Phe 13
-Phe 40
-Ser 53
-Val 59
-Lys 61
